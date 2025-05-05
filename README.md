@@ -31,7 +31,7 @@ README.md
 - Normalization and scaling
 - Principal Component Analysis (PCA)
 - Oversampling using SMOTE
-- Classification models (e.g., Logistic Regression, Random Forest, XGBoost)
+- Classification models (Logistic Regression, Random Forest, KNN, Naiye Bayes, Decision Tree and SVM)
 
 ## 📈 Results
 
@@ -68,5 +68,5 @@ pip install pandas numpy scikit-learn imbalanced-learn matplotlib seaborn xgboos
 
 ## 🧑‍💻 Author
 
-**[Your Name]**  
+**Stephy Romichan**  
 Master’s in Data Analytics Engineering | Passionate about data-driven decisions
